@@ -1,0 +1,13 @@
+// Config
+@import "modules/config";
+
+// Bootstrap
+@import "bootstrap";
+
+// Components
+@import "components/header";
+@import "components/footer";
+@import "components/preloader";
+
+// Pages
+@import "pages/landing";
